@@ -1,6 +1,3 @@
-Java switch Statement
-Java Scanner Class
-Example: Simple Calculator using switch Statement
 import java.util.Scanner;
 
 public class Calculator {
